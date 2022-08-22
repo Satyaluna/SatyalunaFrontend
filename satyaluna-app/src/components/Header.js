@@ -1,5 +1,6 @@
 import React from "react";
 import SatyalunaLogo from "../../src/images/SatyalunaLogo.png"
+import ClearOceanHeader from "../images/ClearOceanHeader.png"
 
 function Header(){
     return(
