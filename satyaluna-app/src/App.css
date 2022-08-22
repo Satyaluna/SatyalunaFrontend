@@ -2,9 +2,27 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header-logo {
+  position:absolute;
+  width: 104px;
+  height: 99px;
+  left: 43px;
+  top: 34px;
+}
+
+h1{
+  position: absolute;
+  width: 371px;
+  height: 70px;
+  left: 199px;
+  top: 44px;
+
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -24,15 +42,3 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
