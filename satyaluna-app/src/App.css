@@ -30,6 +30,15 @@ h1{
 }
 
 
-.nav{
+.nav-content {
+  background-color: #001e2f;
+  width: 3045px;
+  height: 40px;
+  padding-top: 20px;
+}
+
+a {
   color:white;
+  text-decoration: none;
+  padding: 0px 82px;
 }
