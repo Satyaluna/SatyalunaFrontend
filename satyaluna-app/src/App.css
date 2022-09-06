@@ -35,10 +35,17 @@ h1{
   width: 3045px;
   height: 40px;
   padding-top: 20px;
+  border-top: white;
+  border-bottom: white;
+  border-style: solid;
 }
 
 a {
   color:white;
   text-decoration: none;
   padding: 0px 82px;
+}
+
+a:hover {
+  color: #6bf8ef;
 }
