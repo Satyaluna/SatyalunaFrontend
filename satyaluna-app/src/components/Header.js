@@ -1,5 +1,5 @@
 import React from "react";
-import SatyalunaLogo from "../../src/images/SatyalunaLogo.png"
+import SatyalunaLogo from "../../src/images/SatyalunaLogo.png";
 
 function Header(){
     return(
