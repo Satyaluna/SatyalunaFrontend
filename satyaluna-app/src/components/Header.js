@@ -1,6 +1,7 @@
 import React from "react";
 import SatyalunaLogo from "../../src/images/SatyalunaLogo.png";
 
+
 function Header(){
     return(
         <div className="satyaluna-header">
