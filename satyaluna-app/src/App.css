@@ -7,7 +7,6 @@
   display: flex;
   flex-direction: row;
   gap: 10px;
-
 }
 .header-logo {
   width: 104px;
@@ -29,20 +28,24 @@ h1{
   line-height: 76px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.nav-content {
+  background-color: #001e2f;
+  width: 3045px;
+  height: 40px;
+  padding-top: 20px;
+  border-top: white;
+  border-bottom: white;
+  border-style: solid;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+a {
+  color:white;
+  text-decoration: none;
+  padding: 0px 82px;
+}
+
+a:hover {
+  color: #6bf8ef;
 }
 
